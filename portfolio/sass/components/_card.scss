@@ -3,10 +3,10 @@
   perspective: 150rem;
   -moz-perspective: 150rem;
   position: relative;
-  height: 52rem;
+  height: 60rem;
 
   &__side {
-    height: 52rem;
+    height: 58rem;
     transition: all 0.8s ease;
     position: absolute;
     top: 0;
@@ -42,6 +42,7 @@
       }
 
       &-3 {
+        color: white;
         background-image: linear-gradient(
           to right bottom,
           $color-tertiary-light,
@@ -84,7 +85,7 @@
           $color-primary-light,
           $color-primary-dark
         ),
-        url(../img/nat-7.jpg);
+        url(../img/springboot-bootstrap.png);
     }
 
     &--3 {
@@ -93,7 +94,7 @@
           $color-tertiary-light,
           $color-tertiary-dark
         ),
-        url(../img/nat-7.jpg);
+        url(../img/spectrum-content-library-500w.jpg);
     }
   }
 
