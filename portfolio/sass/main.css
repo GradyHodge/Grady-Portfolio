@@ -1410,7 +1410,6 @@ body {
 .navigation__icon {
   position: relative;
   margin-top: 3.5rem;
-  color: white;
 }
 
 .navigation__icon, .navigation__icon::before, .navigation__icon::after {
