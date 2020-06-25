@@ -1232,8 +1232,8 @@ body {
 
 .header {
   height: 85vh;
-  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(126, 213, 111, 0.9)), to(rgba(41, 152, 255, 0.9))), url(/portfolio/img/keyboard-backlit-bw.jpg);
-  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.9), rgba(41, 152, 255, 0.9)), url(/portfolio/img/keyboard-backlit-bw.jpg);
+  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(126, 213, 111, 0.9)), to(rgba(41, 152, 255, 0.9))), url(../img/keyboard-backlit-bw.jpg);
+  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.9), rgba(41, 152, 255, 0.9)), url(../img/keyboard-backlit-bw.jpg);
   background-size: cover;
   background-position: top;
   position: relative;
