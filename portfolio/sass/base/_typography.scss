@@ -17,9 +17,9 @@ body {
     display: block;
     font-size: 7rem;
     font-weight: 400;
-    letter-spacing: 0.5rem;
-    line-height: 1rem;
-    margin-bottom: 10rem;
+    letter-spacing: 1rem;
+    line-height: 7rem;
+    margin: 5rem 10rem;
 
     animation-name: moveInLeft;
     animation-duration: 1s;
@@ -30,8 +30,8 @@ body {
       font-size: 5rem;
     }
 
-    animation-delay: 3s;
-    animation-iteration-count: 3;
+    animation-delay: 1.5s;
+    animation-iteration-count: 1;
   }
 
   &--sub {
