@@ -693,9 +693,9 @@ body {
             transform: scale(1.1);
   }
 }
-
+/* Outline is for overlapping photos*/  
 .composition__photo:hover {
-  outline: 1.5rem solid #55c57a;
+  outline: .8rem solid #55c57a;
   -webkit-transform: scale(1.05) translateY(-0.5rem);
           transform: scale(1.05) translateY(-0.5rem);
   -webkit-box-shadow: 0 2.5rem 4rem rgba(0, 0, 0, 0.5);
